@@ -2,6 +2,11 @@
 const BurgerStack = (props) => {
   const {stack} = props
   const {removeFromBurger} = props
+
+
+
+
+  
     return (
     <ul>
   
